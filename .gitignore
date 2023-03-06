@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore node_modules for React app
+/frontend/node_modules
+
+# Ignore target folder for Spring app
+/backend/target
+/backend/mvn
